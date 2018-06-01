@@ -1,0 +1,10 @@
+C:\Users\e9396\Desktop\Projects\repos\KOR.LIBS\KOR.Theme.ColorAndIcons\KOR.Theme.ColorAndIcons\obj\Debug\KOR.Theme.ColorAndIcons.csprojResolveAssemblyReference.cache
+C:\Users\e9396\Desktop\Projects\repos\KOR.LIBS\KOR.Theme.ColorAndIcons\KOR.Theme.ColorAndIcons\bin\Debug\KOR.Theme.ColorAndIcons.dll
+C:\Users\e9396\Desktop\Projects\repos\KOR.LIBS\KOR.Theme.ColorAndIcons\KOR.Theme.ColorAndIcons\bin\Debug\KOR.Theme.ColorAndIcons.pdb
+C:\Users\e9396\Desktop\Projects\repos\KOR.LIBS\KOR.Theme.ColorAndIcons\KOR.Theme.ColorAndIcons\obj\Debug\Colors.baml
+C:\Users\e9396\Desktop\Projects\repos\KOR.LIBS\KOR.Theme.ColorAndIcons\KOR.Theme.ColorAndIcons\obj\Debug\Icons.baml
+C:\Users\e9396\Desktop\Projects\repos\KOR.LIBS\KOR.Theme.ColorAndIcons\KOR.Theme.ColorAndIcons\obj\Debug\KOR.Theme.ColorAndIcons_MarkupCompile.cache
+C:\Users\e9396\Desktop\Projects\repos\KOR.LIBS\KOR.Theme.ColorAndIcons\KOR.Theme.ColorAndIcons\obj\Debug\KOR.Theme.ColorAndIcons.g.resources
+C:\Users\e9396\Desktop\Projects\repos\KOR.LIBS\KOR.Theme.ColorAndIcons\KOR.Theme.ColorAndIcons\obj\Debug\KOR.Theme.ColorAndIcons.csproj.CoreCompileInputs.cache
+C:\Users\e9396\Desktop\Projects\repos\KOR.LIBS\KOR.Theme.ColorAndIcons\KOR.Theme.ColorAndIcons\obj\Debug\KOR.Theme.ColorAndIcons.dll
+C:\Users\e9396\Desktop\Projects\repos\KOR.LIBS\KOR.Theme.ColorAndIcons\KOR.Theme.ColorAndIcons\obj\Debug\KOR.Theme.ColorAndIcons.pdb
